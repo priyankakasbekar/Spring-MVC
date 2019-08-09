@@ -1,0 +1,13 @@
+LearningSpring/spring_rest/repository/VehicleRepositoryImpl.class
+LearningSpring/spring_rest/entities/Readings.class
+LearningSpring/spring_rest/service/VehicleServiceImpl.class
+LearningSpring/spring_rest/AppInitializer.class
+LearningSpring/spring_rest/controller/VehicleController.class
+LearningSpring/spring_rest/exceptions/BadRequestException.class
+LearningSpring/spring_rest/JPAConfig.class
+LearningSpring/spring_rest/repository/VehicleRepository.class
+LearningSpring/spring_rest/Application.class
+LearningSpring/spring_rest/entities/Vehicle.class
+LearningSpring/spring_rest/service/VehicleService.class
+LearningSpring/spring_rest/entities/TireReadings.class
+LearningSpring/spring_rest/exceptions/VehicleNotFoundException.class
